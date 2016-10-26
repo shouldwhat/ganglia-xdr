@@ -1,3 +1,4 @@
+package xdr;
 
 public class MyStruct
 {
