@@ -1,4 +1,4 @@
-# ganglia-xdr-protocol
+# ganglia-xdr
 
 * **소개**
 ```
